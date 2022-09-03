@@ -1,0 +1,5 @@
+- git init
+- git add .
+- git commit -m "提交文件"
+- git remote add origin https://github.com/Ykkwen/myself.git
+- git push -u origin master
